@@ -1,1 +1,1 @@
-Hello. This is code for my Python class.
+Hello, this is code for my Python class.
